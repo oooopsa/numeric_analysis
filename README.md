@@ -1,4 +1,5 @@
 # 数值分析
+这是来自Steven的数值分析课程的课程资料,内含了PDF课件和JupyterNotebook形式的code
 
 ## PDF部分
 这一部分是来自于NA课程的标准课件
